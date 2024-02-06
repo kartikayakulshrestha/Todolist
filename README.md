@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Making A Todolist Front-end app with React Js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+
+<h2>#On desktop:</h2>
+
+https://github.com/kartikayakulshrestha/Todolist/assets/126651238/42644115-a654-45f7-8826-38119e1f328f
+
+
+
 
 ## Available Scripts
 
@@ -13,6 +23,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+<h2>#On phone looks</h2>
+
+https://github.com/kartikayakulshrestha/Todolist/assets/126651238/fa7a26fd-42cb-4a6c-a5d7-d3e26a161b66
 
 ### `npm test`
 
